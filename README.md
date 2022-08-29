@@ -1,16 +1,10 @@
-# ombre
+# ombre Assignment
+Currently it has the serching feature like ombre app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note :-
+There are only Five event present in the backend which are :-
+1. One music Fest
+2. The sunburn techno fest Goa
+3. Ultra Music Festival
+4. NH7 Weekender
+5. TomorrowLand
